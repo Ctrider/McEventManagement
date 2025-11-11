@@ -120,8 +120,13 @@ npm run client
 
 ### Step 4: Access the Application
 
-Once the servers are running, open your web browser and navigate to:
+Once deployed on Vercel, your application will be available at:
 
+- **Live Application**: https://mceventmanagement.vercel.app
+- **API Endpoints**: https://mceventmanagement.vercel.app/api/*
+- **Health Check**: https://mceventmanagement.vercel.app/api/health
+
+For local development:
 - **Frontend Application**: http://localhost:3000
 - **Backend API**: http://localhost:5000
 - **API Health Check**: http://localhost:5000/api/health

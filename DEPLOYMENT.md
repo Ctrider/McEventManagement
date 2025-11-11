@@ -1,6 +1,6 @@
 # 🚀 Vercel Deployment Guide - McEventManagement
 
-## 🎯 Quick Deployment to quio.vercel.app
+## 🎯 Quick Deployment to mceventmanagement.vercel.app
 
 This guide will help you deploy the McEventManagement platform to Vercel in just a few minutes!
 
@@ -72,24 +72,24 @@ McEventManagement/
    - Click "Deploy" button
    - Wait for deployment to complete (2-3 minutes)
 
-### Step 3: Configure Custom Domain (quio.vercel.app)
+### Step 3: Configure Custom Domain (mceventmanagement.vercel.app)
 
 1. **Vercel automatically provides**:
-   - `https://your-project.vercel.app`
-   - For quio.vercel.app, you'll need to:
+   - `https://mceventmanagement.vercel.app`
+   - For custom domains, you can also add:
      - Go to Project Settings > Domains
-     - Add `quio.vercel.app` as custom domain
+     - Add your own custom domain if needed
      - Follow DNS configuration instructions
 
 ## 🌐 API Endpoints
 
 After deployment, your API will be available at:
 
-- **Events**: `https://quio.vercel.app/api/events`
-- **Event Details**: `https://quio.vercel.app/api/events?id=1`
-- **Announcements**: `https://quio.vercel.app/api/announcements`
-- **Statistics**: `https://quio.vercel.app/api/stats`
-- **Health Check**: `https://quio.vercel.app/api/health`
+- **Events**: `https://mceventmanagement.vercel.app/api/events`
+- **Event Details**: `https://mceventmanagement.vercel.app/api/events?id=1`
+- **Announcements**: `https://mceventmanagement.vercel.app/api/announcements`
+- **Statistics**: `https://mceventmanagement.vercel.app/api/stats`
+- **Health Check**: `https://mceventmanagement.vercel.app/api/health`
 
 ## 🔧 Troubleshooting
 
